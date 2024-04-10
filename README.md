@@ -6,10 +6,41 @@
   Let's Connect and have a Chat!💬
 </h1>
 
+---
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
----  
+```yaml
+name: Manas Das
+located_in: Bihar,India
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Computer Education",
+  ]
+company: *****
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Application Development",
+    "DataBase Architecture",
+    "DevOps",
+    "UI/UX",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect",
+  ]
   
+currently_learning: ["Blockchain, Machine Learning, and Flutter"]
+2024 Goals: ["Create 30 Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Music", "Cinema", "Playing Outdoor Games", "Comedy"]
+```
+  
+--- 
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>

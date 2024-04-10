@@ -75,7 +75,7 @@ hobbies: ["Music", "Cinema", "Playing Outdoor Games", "Comedy"]
     <a href="http://www.github.com/ManasDas-9801"><img src="https://github-readme-stats.vercel.app/api?username=ManasDas-9801&show_icons=true&hide=commits,&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="ManasDas-9801's GitHub stats" /></a>
     <a href="http://www.github.com/ManasDas-9801"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasDas-9801&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
-<a href="https://github.com/ManasDas-9801" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasDas-9801&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ManasDas-9801" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasDas-9801&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 <p align="center">

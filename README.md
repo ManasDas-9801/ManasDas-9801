@@ -67,7 +67,8 @@ hobbies: ["Music", "Cinema", "Playing Outdoor Games", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
-
+---
+<a href="http://www.github.com/ManasDas-9801"><img src="https://github-readme-stats.vercel.app/api?username=ManasDas-9801h&show_icons=true&hide=commits,&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="ManasDas's GitHub stats" /></a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

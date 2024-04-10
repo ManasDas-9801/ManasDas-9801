@@ -38,13 +38,6 @@ currently_learning: ["Blockchain, Machine Learning, and Flutter"]
 2024 Goals: ["Create 30 Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Music", "Cinema", "Playing Outdoor Games", "Comedy"]
 ```
-### My GitHub Stats
-
-<div style="display:flex; justify-content: space-around;">
-    <a href="http://www.github.com/ManasDas-9801"><img src="https://github-readme-stats.vercel.app/api?username=ManasDas-9801&show_icons=true&hide=commits,&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="ManasDas-9801's GitHub stats" /></a>
-    <a href="http://www.github.com/ManasDas-9801"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasDas-9801&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
-<a href="https://github.com/ManasDas-9801" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasDas-9801&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 --- 
 
@@ -74,6 +67,16 @@ hobbies: ["Music", "Cinema", "Playing Outdoor Games", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
+
+
+### My GitHub Stats
+
+<div style="display:flex; justify-content: space-around;">
+    <a href="http://www.github.com/ManasDas-9801"><img src="https://github-readme-stats.vercel.app/api?username=ManasDas-9801&show_icons=true&hide=commits,&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="ManasDas-9801's GitHub stats" /></a>
+    <a href="http://www.github.com/ManasDas-9801"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasDas-9801&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+<a href="https://github.com/ManasDas-9801" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasDas-9801&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

@@ -13,6 +13,7 @@
 name: Manas Das
 located_in: Bihar,India
 current_job: Full Stack Developer
+email:heyiammanas@gmail.com
 education:
   [
     "Self-Taught Developer and Designer",
